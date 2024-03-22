@@ -1,0 +1,18 @@
+Name = 'Mrinmoy Kar'
+for i in range(len(Name)-1,-1,-1):
+    print(Name[i])
+    
+# start: len(Name)-1 - This sets the starting point of the range to the index of the last character in the string Name. In Python, string indices start from 0, so len(Name)-1 gives the index of the last character.
+
+# stop: -1 - This sets the stopping point of the range. The loop will continue until it reaches or goes below the index -1. In Python, the range function does not include the stop value in the generated sequence, so it stops just before reaching -1.
+
+# step: -1 - This sets the step size of the range. In this case, it's -1, meaning that the loop will iterate in reverse order, decreasing the index by 1 in each iteration.
+    
+# print(len(Name))
+# print("\n")
+# for i in range(0, len(Name)):
+#     print(Name[i])
+
+
+
+    
