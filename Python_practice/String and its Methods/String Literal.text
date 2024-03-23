@@ -1,0 +1,7 @@
+A string literal is a sequence of characters enclosed within quotation marks in a programming language. In Python, you can create string literals using either single (' ') or double (" ") quotation marks. For example:
+
+python
+Copy code
+string1 = 'This is a string literal using single quotes.'
+string2 = "This is a string literal using double quotes."
+Both string1 and string2 are examples of string literals. They represent fixed sequences of characters and can contain letters, digits, symbols, and whitespace. String literals are commonly used to represent text data in Python programs.
