@@ -1,4 +1,4 @@
-# # A tuple is an immutable sequence type in Python, used to store a collection of items. 
+# A tuple is an immutable sequence type in Python, used to store a collection of items. 
 # Tuples are immutable, meaning once they are created, their values cannot be changed. 
 # my_tuple = (1, 2, 3)
 
