@@ -1,0 +1,7 @@
+name = 'Mrinmoy'
+id = 116
+
+formatted_string = "My name is {} and my id is {}".format (name, id)
+print(formatted_string)
+
+# o/p -> My name is Mrinmoy and my id is 116

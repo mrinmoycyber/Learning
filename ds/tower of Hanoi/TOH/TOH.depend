@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606488898 source:d:\ds\tower of hanoi\toh\main.c
+	<stdio.h>
+	<stdlib.h>
+

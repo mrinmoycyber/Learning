@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602737067 source:d:\ds\nested recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
