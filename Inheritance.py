@@ -1,4 +1,4 @@
-#Create a base class vehicle with derived class car and bike Show how inheritance works by overriding methods.
+#Create a base class vehicle with derived class car and bike. Show how inheritance works by overriding methods.
 
 class Vehicle:
     def __init__(self, make, model):
