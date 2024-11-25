@@ -1,4 +1,7 @@
-
+# range (start, stop)
+# starts 0, end n-i-1 
+# n -> represents the size of length(e.g - list or an array), i -> index variable from the outer loop
+# n-i-1 -> ensure that loop iterates fewer times as i increases.
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
