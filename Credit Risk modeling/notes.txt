@@ -1,0 +1,66 @@
+For bank prespective - 
+Asset  - Loan product (which gives us profit)
+In banking, assets are what the bank owns or invests in to generate income.
+Loans given to customers are considered assets, because:
+The bank expects to receive future cash flows (in the form of principal + interest).
+Loans earn interest, which is the primary source of income for a bank.
+| Loan Type       | Why It's an Asset                           |
+| --------------- | ------------------------------------------- |
+| Housing Loan    | Customer repays with interest → cash inflow |
+| Personal Loan   | High interest rate → more profit for bank   |
+| Auto Loan, etc. | Any lending product is considered an asset  |
+
+
+Liability - Liabilities are what the bank owes to customers — i.e., sources of funds the bank must eventually return.
+Customer deposits (like savings, current, fixed deposits) are liabilities because:
+The bank borrows this money from customers.
+Customers can withdraw it anytime (in case of savings/current) or after maturity (FD).
+Bank pays interest on these (a cost for the bank).
+
+| Deposit Type    | Why It's a Liability                       |
+| --------------- | ------------------------------------------ |
+| Savings Account | Bank owes this money to the customer       |
+| Current Account | Same as above, but often no interest paid  |
+| Fixed Deposit   | Higher interest paid → long-term liability |
+
+CASA: Current Account Savings Account
+TD: Term Deposit (also called Time Deposit or Fixed Deposit - FD)
+
+NPA - Non Performing Asset
+NPA - Loan that is defaulted
+
+1.Disbursed Amount - Loan amount given to a customer
+2.OSP - Out Standing Principle
+1 lakh loan taken
+8k EMI
+I already paid 40k
+left 60k is my OSP
+
+OSP should be zero at the end of loan cycle.
+
+3.DPD - Days Past Due
+Suppose my due date was 10th april and I paid on 12 April. 
+DPD = 2 days
+DPD should ideally zero
+Now the person is "Defaulted" 
+"Defaulted" DPD > 0
+
+4. PAR - Portfolio at risk
+OSP when DPD > 0
+
+5.NPA - Loan Account when DPD > 90 days
+
+# Credit Risk Types in banking
+DPD (zero) - NDA (Non delinquint Account)
+DPD (0 to 30) - SMA1 (Standar Monitoring Account)
+DPD (31 to 60) - SMA2 (Standar Monitoring Account)
+DPD (61 to 90) - SMA3 (Standar Monitoring Account)
+DPD (90 to 180) - NPA
+DPD (>180) - write-off (Loan which is not present, bank removed it from it book)
+
+A write-off is an accounting action where the bank removes the loan amount from its books as an asset.
+
+Why does the bank write off the loan?
+Loan is irrecoverable — the borrower is not paying at all.
+To clean up the balance sheet and show a healthier asset portfolio.
+Required by accounting standards (IFRS/GAAP) and regulatory bodies (like RBI) when the loan is overdue for a long time.
