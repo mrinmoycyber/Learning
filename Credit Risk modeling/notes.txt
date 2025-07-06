@@ -35,7 +35,6 @@ NPA - Loan that is defaulted
 8k EMI
 I already paid 40k
 left 60k is my OSP
-
 OSP should be zero at the end of loan cycle.
 
 3.DPD - Days Past Due
@@ -64,3 +63,49 @@ Why does the bank write off the loan?
 Loan is irrecoverable — the borrower is not paying at all.
 To clean up the balance sheet and show a healthier asset portfolio.
 Required by accounting standards (IFRS/GAAP) and regulatory bodies (like RBI) when the loan is overdue for a long time.
+
+NPA 2 parts - 
+GNPA - Gross NPA (3-5 %) 
+Gross NPA = Total value of all loans that are not being repaid properly (i.e., defaulted loans).
+| Particular                  | Value         |
+| --------------------------- | ------------- |
+| Total Loans by Bank         | ₹10,000 crore |
+| Total Defaulted Loans (NPA) | ₹500 crore    |
+Here GNPA is 500 crore
+GNPA = Total Defaulted Loans
+Formula:
+GNPA Ratio = Total NPAs (without provisioning) / (Total Gross Advances/ total Loans) × (100)
+= 500 / 10,000 * 100 = 5%
+So, 5% of the bank’s loans are in default. This is Gross NPA.
+
+Interpretation: Reflects the overall asset quality of the bank.
+                A high GNPA (e.g., 3–5%) shows that many loans are turning bad.
+                NNPA - Net NPA (0.01 to 0.06%) = Provisioning Amount Subtracted
+
+What is Provisioning?
+Banks set aside some money from their profits in advance to cover expected losses from NPAs. This is called provisioning.
+
+You can think of it like:
+You lent ₹10,000 to your friend.
+You think ₹8,000 is lost.
+So you mentally write off ₹8,000 — that’s provisioning.
+You still hope to recover something.
+
+Net NPA (NNPA)?
+Net NPA = GNPA – Provisioning
+Why?
+It tells the actual loss or risk the bank still carries after setting aside the buffer.
+If a bank provisioned well, NNPA will be low.
+
+| Item                     | Value      |
+| ------------------------ | ---------- |
+| Total NPA (GNPA)         | ₹500 crore |
+| Provisioning Done        | ₹400 crore |
+| Net NPA (Remaining Risk) | ₹100 crore |
+
+NNPA Ratio=  (Total Loans – Provision) / (GNPA – Provision) * 100
+
+500 - 400 / 10,000 - 400 * 100 = 100/9600 * 100 = 1.04 %
+
+​
+ 
